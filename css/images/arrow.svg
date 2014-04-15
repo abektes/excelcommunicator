@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="90px"
+	 height="66px" viewBox="0 0 90 66" enable-background="new 0 0 90 66" xml:space="preserve">
+<g id="Layer_1" zoomAndPan="disable">
+	<g>
+		<polygon opacity="0.5" fill="#E10B7D" points="89.828,13.498 44.997,52.611 0.172,13.498 		"/>
+		<polygon opacity="0.2" fill="#E10B7D" points="89.828,26.997 74.357,26.997 44.997,52.611 15.639,26.997 0.172,26.997 
+			44.997,66.104 		"/>
+		<polygon fill="#E10B7D" points="89.828,0 44.997,39.106 0.172,0 		"/>
+	</g>
+</g>
+<g id="Layer_2" display="none">
+	<line display="inline" fill="none" stroke="#DC0073" x1="1" y1="1" x2="90" y2="1"/>
+	<line display="inline" fill="none" stroke="#DC0073" x1="1" y1="1" x2="45.5" y2="46"/>
+	<line display="inline" fill="none" stroke="#DC0073" x1="90" y1="1" x2="45.5" y2="46"/>
+	<line display="inline" fill="none" stroke="#DC0073" x1="1" y1="21" x2="90" y2="21"/>
+	<line display="inline" fill="none" stroke="#DC0073" x1="1" y1="21" x2="45.5" y2="66"/>
+	<line display="inline" fill="none" stroke="#DC0073" x1="90" y1="21" x2="45.5" y2="66"/>
+</g>
+</svg>
